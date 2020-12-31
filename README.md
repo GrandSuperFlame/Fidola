@@ -1,5 +1,6 @@
 # Fidola
 Fidola The Eternal Wind
+@ Founding 31.12.2020
 
 This is a new programming language.
 The main goal is for it to be highly safe and performant.

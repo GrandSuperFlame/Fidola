@@ -35,3 +35,4 @@ Planned features:
 - types that implement many interfaces get a strict seperation between the inteface methods so there can not be any conflict
 - no recursion allowed (cyclic function calls are fine)  (recursion is easy to do, but is jsut not needed. use loops instead)
 - a store for libraries, code generation commands, and templates
+- support for a plug in system for running software. like a virtual maschine.

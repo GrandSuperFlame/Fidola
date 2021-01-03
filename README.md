@@ -1,5 +1,5 @@
 # Fidola
-Fidola The Eternal Wind
+Fidola
 
 @ Founding 31.12.2020
 
